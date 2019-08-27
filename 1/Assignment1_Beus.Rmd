@@ -51,7 +51,7 @@ options(width = 400)
 
 5) Provide a direct link in your html file to your GitHub account, such that clicking on your GitHub username will result in opening of your GitHub account. *(2 points)* 
 
-    [beusj](https://raw.githubusercontent.com/beusj/BMIN_503_Assigments/master/1/Assignment1_Beus.html)
+    [beusj](https://github.com/beusj)
 
 
 
