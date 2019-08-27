@@ -43,15 +43,15 @@ options(width = 400)
 
 3) Describe what research topic(s) interest you using 2-3 sentences. *(2 points)* 
 
-    [My major research interests are X, Y, and Z.]
+    My major research interests are improving patient safety and provider efficiency through the use of the Electronic Health Record (EHR). Clinically, I am generally interested in improving the care of hospitalized children and, in particular, am interested in antimicrobial stewardship as well as the diagnosis and treatment of Kawasaki Disease.
 
 4) What are you most interested in learning during this course? *(2 points)* 
 
-    [I am most interested in learning A, B, C.]
+    I am most interested in learning about machine learning and high performance computing. As I am primarily self taught in R, I am also interested in formalized instruction in R to make sure I am using best practices.
 
 5) Provide a direct link in your html file to your GitHub account, such that clicking on your GitHub username will result in opening of your GitHub account. *(2 points)* 
 
-    [blancahimes](https://github.com/blancahimes)
+    [beusj](https://raw.githubusercontent.com/beusj/BMIN_503_Assigments/master/1/Assignment1_Beus.html)
 
 
 
